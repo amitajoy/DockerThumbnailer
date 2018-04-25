@@ -2,7 +2,7 @@
 http://start.spring.io/
 
 Slide 4
-package com.lendingclub.thumbnailer;
+package com.amit.thumbnailer;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -97,7 +97,7 @@ ENTRYPOINT ["java","-jar","thumbnailer.jar"]
 Slide 14
 
 
-package com.lendingclub.thumbnailer;
+package com.amit.thumbnailer;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
